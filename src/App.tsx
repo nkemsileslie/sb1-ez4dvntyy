@@ -19,7 +19,7 @@ const products = [
   {
     id: 2,
     name: 'Brown Velvet Dress',
-    price: '$349',
+    price: '$250',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572496/IMG_3974_yoy5ri.jpg',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572497/IMG_3976_amtbh2.jpg'
