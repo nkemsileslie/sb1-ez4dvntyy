@@ -14,7 +14,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
-    sizes: ['S', 'M', 'L', 'XL'],
+    sizes: [],
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Luxurious velvet blazer perfect for evening occasions.',
-    sizes: ['XS', 'S', 'M', 'L'],
+    sizes: [],
   },
   {
     id: 3,
@@ -38,7 +38,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Elegant evening gown with crystal embellishments.',
-    sizes: ['S', 'M', 'L'],
+    sizes: [],
   },
   {
     id: 4,
@@ -50,7 +50,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Luxurious satin two-piece set for special occasions.',
-    sizes: ['XS', 'S', 'M', 'L', 'XL'],
+    sizes: [],
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Flowing silk dress with delicate details.',
-    sizes: ['S', 'M', 'L'],
+    sizes: [],
   },
   {
     id: 6,
@@ -75,7 +75,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Stunning two-piece evening set with intricate beading.',
-    sizes: ['XS', 'S', 'M', 'L'],
+    sizes: [],
   },
   {
     id: 7,
@@ -87,7 +87,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Stunning two-piece evening set with intricate beading.',
-    sizes: ['XS', 'S', 'M', 'L'],
+    sizes: [],
   },
   {
     id: 8,
@@ -98,7 +98,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
-    sizes: ['S', 'M', 'L', 'XL'],
+    sizes: [],
   }
 ];
 
