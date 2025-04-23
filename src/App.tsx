@@ -9,10 +9,12 @@ const products = [
     name: 'Pink Tulle Dream Gown',
     price: '$899',
     images: [
-      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg'
+      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg',
+      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=720'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
+    sizes: ['S', 'M', 'L', 'XL'],
   },
   {
     id: 2,
