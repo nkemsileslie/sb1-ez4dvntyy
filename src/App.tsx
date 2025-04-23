@@ -7,10 +7,9 @@ const products = [
   {
     id: 1,
     name: 'Pink Tulle Dream Gown',
-    price: '$899',
+    price: '£899',
     images: [
-      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg',
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=720'
+      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
@@ -19,7 +18,7 @@ const products = [
   {
     id: 2,
     name: 'Brown Velvet Dress',
-    price: '$250',
+    price: '£250',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572496/IMG_3974_yoy5ri.jpg',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572497/IMG_3976_amtbh2.jpg'
@@ -69,9 +68,7 @@ const products = [
     name: 'Emerald Evening Gown',
     price: '$649',
     images: [
-      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572471/IMG_3997_lzl3qq.jpg?auto=format&fit=crop&q=80&w=720',
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=720',
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&q=80&w=720'
+      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572471/IMG_3997_lzl3qq.jpg?auto=format&fit=crop&q=80&w=720'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Stunning two-piece evening set with intricate beading.',
