@@ -14,7 +14,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
-    sizes: ['S', 'M', 'L', 'XL'],
+    
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Luxurious velvet blazer perfect for evening occasions.',
-    sizes: ['XS', 'S', 'M', 'L'],
+    
   },
   {
     id: 3,
@@ -34,11 +34,12 @@ const products = [
     price: '£180',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572442/IMG_4173_jwr22o.jpg?auto=format&fit=crop&q=80&w=720',
-      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572516/IMG_4203_zotffp.jpg?auto=format&fit=crop&q=80&w=720'
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745323752/cream_back_bxqvld.jpg?auto=format&fit=crop&q=80&w=720',
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745323747/cream_pose_m8ask4.jpg?auto=format&fit=crop&q=80&w=720'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Elegant evening gown with crystal embellishments.',
-    sizes: ['S', 'M', 'L'],
+    
   },
   {
     id: 4,
@@ -50,7 +51,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Luxurious satin two-piece set for special occasions.',
-    sizes: ['XS', 'S', 'M', 'L', 'XL'],
+    
   },
   {
     id: 5,
@@ -62,7 +63,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Flowing silk dress with delicate details.',
-    sizes: ['S', 'M', 'L'],
+    
   },
   {
     id: 6,
@@ -70,12 +71,12 @@ const products = [
     price: '£180',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572471/IMG_3997_lzl3qq.jpg?auto=format&fit=crop&q=80&w=720',
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=720',
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&q=80&w=720'
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745326808/deep_green_backk_w6bwtt.jpg?auto=format&fit=crop&q=80&w=720',
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745325724/deep_green_closing_mafn6e.jpg?auto=format&fit=crop&q=80&w=720'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Stunning two-piece evening set with intricate beading.',
-    sizes: ['XS', 'S', 'M', 'L'],
+    
   },
   {
     id: 7,
@@ -87,7 +88,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Stunning two-piece evening set with intricate beading.',
-    sizes: ['XS', 'S', 'M', 'L'],
+    
   },
   {
     id: 8,
@@ -99,7 +100,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
-    sizes: ['S', 'M', 'L', 'XL'],
+    
   }
 ];
 
