@@ -94,7 +94,8 @@ const products = [
     name: 'Mint Silk Dress',
     price: '£165',
     images: [
-      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572520/IMG_4067_q4ygcv.jpg?auto=format&fit=crop&q=80&w=720'
+      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572520/IMG_4067_q4ygcv.jpg?auto=format&fit=crop&q=80&w=720',
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745325200/baby_green_front_1_aehjzc.jpg'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
