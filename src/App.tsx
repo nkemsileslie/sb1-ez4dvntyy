@@ -428,9 +428,20 @@ function About() {
             >
               <h2 className="text-3xl font-light tracking-wide">About Saintsuzzy</h2>
               <p className="text-gray-600 leading-relaxed">
-                Saintsuzzy represents the perfect blend of contemporary elegance and timeless sophistication. 
-                Each piece in our collection is thoughtfully designed to empower the modern woman with 
-                confidence and grace.
+              Saintsuzzy is more than just a brand — it's a lifestyle that celebrates elegance, confidence, and the multifaceted beauty of the modern woman. Founded by the visionary entrepreneur known as Saintsuzzy, the brand has grown into a dynamic empire encompassing several distinct but interwoven ventures:
+
+              Saintsuzzy Signature – our flagship fashion line known for its luxurious, contemporary pieces designed to elevate every woman’s wardrobe.
+
+              Saintsuzzy Beauty – A makeup brand that enhances natural beauty with bold, high-quality cosmetics.
+
+              Saintsuzzy Wigs – high-quality, stylish wig installations crafted to suit every look and mood.
+
+              Saintsuzzy Shots – a creative visual arm that captures the essence of the brand through photography and media.
+
+              At the heart of it all is Saintsuzzy, the CEO and creative force behind the movement. With a deep passion for empowering women through fashion and self-expression, she blends timeless sophistication with modern flair in every product and campaign. Her leadership, authenticity, and attention to detail have built a brand that not only sets trends but also inspires confidence in women everywhere.
+
+              Saintsuzzy continues to redefine what it means to be stylish, powerful, and unapologetically yourself.. 
+                
               </p>
               <a
                 href="https://www.instagram.com/saintsuzzysignature"
