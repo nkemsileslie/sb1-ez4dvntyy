@@ -7,41 +7,27 @@ const products = [
   {
     id: 1,
     name: 'Pink Tulle Dream Gown',
-<<<<<<< HEAD
     price: '£80',
-=======
-    price: '£80',
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
-<<<<<<< HEAD
     
-=======
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   },
   {
     id: 2,
     name: 'Brown Velvet Dress',
-<<<<<<< HEAD
     price: '£170',
-=======
-    price: '£170',
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572496/IMG_3974_yoy5ri.jpg',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572497/IMG_3976_amtbh2.jpg'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Luxurious velvet blazer perfect for evening occasions.',
-<<<<<<< HEAD
     
-=======
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   },
   {
     id: 3,
@@ -54,11 +40,8 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Elegant evening gown with crystal embellishments.',
-<<<<<<< HEAD
     
-=======
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   },
   {
     id: 4,
@@ -70,11 +53,8 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Luxurious satin two-piece set for special occasions.',
-<<<<<<< HEAD
     
-=======
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   },
   {
     id: 5,
@@ -86,32 +66,21 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Flowing silk dress with delicate details.',
-<<<<<<< HEAD
     
-=======
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   },
   {
     id: 6,
     name: 'Emerald Evening Gown',
     price: '£180',
     images: [
-<<<<<<< HEAD
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572471/IMG_3997_lzl3qq.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745326808/deep_green_backk_w6bwtt.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745325724/deep_green_closing_mafn6e.jpg?auto=format&fit=crop&q=80&w=720'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Stunning two-piece evening set with intricate beading.',
-    
-=======
-      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572471/IMG_3997_lzl3qq.jpg?auto=format&fit=crop&q=80&w=720'
-    ],
-    instagram: 'https://www.instagram.com/saintsuzzysignature',
-    description: 'Stunning two-piece evening set with intricate beading.',
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   },
   {
     id: 7,
@@ -123,11 +92,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Stunning two-piece evening set with intricate beading.',
-<<<<<<< HEAD
-    
-=======
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   },
   {
     id: 8,
@@ -139,11 +104,7 @@ const products = [
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
-<<<<<<< HEAD
-    
-=======
     sizes: [],
->>>>>>> 2b8b566a91912f4974e04c85c8c3a93846f9406b
   }
 ];
 
