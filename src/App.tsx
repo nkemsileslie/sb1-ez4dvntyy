@@ -426,25 +426,25 @@ function About() {
               viewport={{ once: true }}
               className="space-y-6"
             >
-              <h2 className="text-3xl font-light tracking-wide">About Saintsuzzy</h2>
+              <h2 className="text-3xl font-bold tracking-wide">About Saintsuzzy</h2>
               <p className="text-gray-600 leading-relaxed">
               Saintsuzzy is more than just a brand — it's a lifestyle that celebrates elegance, confidence, and the multifaceted beauty of the modern woman. Founded by the visionary entrepreneur known as Saintsuzzy, the brand has grown into a dynamic empire encompassing several distinct but interwoven ventures:
-
-              Saintsuzzy Signature – our flagship fashion line known for its luxurious, contemporary pieces designed to elevate every woman’s wardrobe.
-
-              Saintsuzzy Beauty – A makeup brand that enhances natural beauty with bold, high-quality cosmetics.
-
-              Saintsuzzy Wigs – high-quality, stylish wig installations crafted to suit every look and mood.
-
-              Saintsuzzy Shots – a creative visual arm that captures the essence of the brand through photography and media.
-
+              <br /><br />
+              <strong>Saintsuzzy Signature</strong> – our flagship fashion line known for its luxurious, contemporary pieces designed to elevate every woman’s wardrobe.
+              <br />
+              <strong>Saintsuzzy Beauty</strong> – A makeup brand that enhances natural beauty with bold, high-quality cosmetics.
+              <br />
+              <strong>Saintsuzzy Wigs</strong> – high-quality, stylish wig installations crafted to suit every look and mood.
+              <br />
+              <strong>Saintsuzzy Shots</strong> – a creative visual arm that captures the essence of the brand through photography and media.
+              <br /><br />
               At the heart of it all is Saintsuzzy, the CEO and creative force behind the movement. With a deep passion for empowering women through fashion and self-expression, she blends timeless sophistication with modern flair in every product and campaign. Her leadership, authenticity, and attention to detail have built a brand that not only sets trends but also inspires confidence in women everywhere.
-
+              <br /><br />
               Saintsuzzy continues to redefine what it means to be stylish, powerful, and unapologetically yourself.. 
                 
               </p>
               <a
-                href="https://www.instagram.com/saintsuzzysignature"
+                href="https://www.instagram.com/saintsuzzy?igsh=MTJldnNmenphMHY0YQ=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 text-gray-900 hover:text-gray-700"
