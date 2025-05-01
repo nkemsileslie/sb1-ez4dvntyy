@@ -7,7 +7,7 @@ const products = [
   {
     id: 1,
     name: 'Pink Tulle Dream Gown',
-    price: '£80',
+    price: '£250',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg'
     ],
@@ -18,6 +18,18 @@ const products = [
   },
   {
     id: 2,
+    name: 'Nude Tulle Dream Gown',
+    price: '£250',
+    images: [
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1746098973/mat_brown_jkucdl.jpg'
+    ],
+    instagram: 'https://www.instagram.com/saintsuzzysignature',
+    description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
+    
+    sizes: [],
+  },
+  {
+    id: 3,
     name: 'Brown Velvet Dress',
     price: '£170',
     images: [
@@ -30,7 +42,7 @@ const products = [
     sizes: [],
   },
   {
-    id: 3,
+    id: 4,
     name: 'Gold Evening Gown',
     price: '£180',
     images: [
@@ -44,7 +56,7 @@ const products = [
     sizes: [],
   },
   {
-    id: 4,
+    id: 5,
     name: 'Purple Satin Dress',
     price: '£180',
     images: [
@@ -57,7 +69,7 @@ const products = [
     sizes: [],
   },
   {
-    id: 5,
+    id: 6,
     name: 'Green Silk Dress',
     price: '£170',
     images: [
@@ -70,7 +82,7 @@ const products = [
     sizes: [],
   },
   {
-    id: 6,
+    id: 7,
     name: 'Emerald Evening Gown',
     price: '£180',
     images: [
@@ -83,7 +95,7 @@ const products = [
     sizes: [],
   },
   {
-    id: 7,
+    id: 8,
     name: 'Orange Velvet Gown',
     price: '£170',
     images: [
@@ -95,7 +107,7 @@ const products = [
     sizes: [],
   },
   {
-    id: 8,
+    id: 9,
     name: 'Mint Silk Dress',
     price: '£165',
     images: [
@@ -103,7 +115,7 @@ const products = [
       'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745325200/baby_green_front_1_aehjzc.jpg'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
-    description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
+    description: 'Flawless silk duchess satin dress with chantily draping.',
     sizes: [],
   }
 ];
